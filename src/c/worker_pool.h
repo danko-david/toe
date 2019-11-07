@@ -10,6 +10,7 @@
 
 #include "include.h"
 #include "rerunnable_thread.h"
+#include "utils.h"
 
 enum worker_pool_status
 {
