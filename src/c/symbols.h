@@ -4,6 +4,7 @@
 #endif
 #define  SYMBOLS_H
 #include <stdlib.h>
+#include <link.h>
 
 typedef enum {
     LOCAL_SYMBOL  = 1,
